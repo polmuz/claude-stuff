@@ -1,0 +1,24 @@
+{
+  "name": "claude-stuff",
+  "owner": {
+    "name": "polmuz"
+  },
+  "metadata": {
+    "description": "A collection of Claude Code plugins by polmuz",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "analyze-claude-sessions",
+      "source": "./analyze-claude-sessions",
+      "description": "Analyze session transcripts to find error patterns and improve CLAUDE.md",
+      "version": "2.0.0",
+      "author": {
+        "name": "polmuz"
+      },
+      "repository": "https://github.com/polmuz/claude-stuff",
+      "license": "MIT",
+      "keywords": ["session-analysis", "error-patterns", "claude-md"]
+    }
+  ]
+}

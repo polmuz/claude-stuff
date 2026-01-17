@@ -1,0 +1,15 @@
+{
+  "name": "analyze-claude-sessions",
+  "description": "Analyze Claude Code sessions to find error patterns and improve CLAUDE.md",
+  "version": "2.0.0",
+  "author": {
+    "name": "polmuz"
+  },
+  "repository": "https://github.com/polmuz/claude-stuff",
+  "keywords": [
+    "claude-code",
+    "session-analysis",
+    "error-patterns",
+    "claude-md"
+  ]
+}
